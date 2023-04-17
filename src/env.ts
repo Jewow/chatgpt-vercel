@@ -15,7 +15,7 @@ export const defaultEnv = {
     title: "",
     saveSession: true,
     APITemperature: 0.6,
-    continuousDialogue: ,
+    continuousDialogue: true,
     APIModel: "gpt-3.5-turbo" as Model
   },
   CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI Vercel
